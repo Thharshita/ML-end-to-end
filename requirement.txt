@@ -1,2 +1,7 @@
 pandas
--e .
+matplotlib
+seaborn
+numpy
+scikit-learn
+xgboost
+catboost
